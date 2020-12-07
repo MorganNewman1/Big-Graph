@@ -1,26 +1,4 @@
 
-// CSC 300 Spring 2020
-/*
- - class for introducing graphs & graph algorithms
- - for simplification, we have the following restrictions:
-    - less than 100 nodes
-    - no self edges
-    - all graph description files will be weighted
-    - all weights > 0
-
- - node order
-    print out the nodes, on 1 line, in the order dictated by algorithm
- - spanning tree
-    print out edges     start-end   in the order dictated by algorithm
-
-
-
-Graph Description File format
-  Number of Nodes
-  Number of Edges
-  Source  Destination  Weight     [ for each edge ]
-
-*/
 
 #include <iostream>
 #include <fstream>
